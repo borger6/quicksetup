@@ -15,5 +15,7 @@ public class Week1 {
             }
         }
         return størst;
+
+        Added a simple bug here
     }
 }
